@@ -3,7 +3,7 @@ import './App.css';
 import "./styles/styling.css" ;
 import AddCircleIcon from '@material-ui/icons/AddCircle';
 import Card from '@material-ui/core/Card';
-import Button from "@material-ui/core/Button" ;
+// import Button from "@material-ui/core/Button" ;
 function App() {
   let selectArea, theButton , dialogBox , textArea  ;
   const myArray =[];
