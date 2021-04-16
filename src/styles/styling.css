@@ -1,0 +1,157 @@
+.button {
+    font-size: x-large; 
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    border-radius: 50%;
+    color: white;
+    outline-width: 0;
+    border: none;
+    background-color: rgb(190, 48, 48);
+    
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+   
+}
+.button:hover{
+  background-color: #3a202b;
+  box-shadow: 0px 15px 20px rgba(229, 113, 46, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.App > .MuiCard-root{
+    max-width: 350px;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    background-color: #3a202bed;
+    color: white;
+    font-size: 2rem;
+    padding: 15px;
+    border-radius: 5px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+   
+}
+::selection{
+    color: white;
+    background: rgba(2, 219, 129, 0.945);
+}
+.addButton {
+  
+    height: 30px;
+   
+    font-size: 11px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 750;
+    padding: 0px 10px;
+    /* background-color: rgb(255, 167, 2); */
+    background-color: transparent;
+    text-decoration: underline;
+    border: none;
+    border-radius: 45px;
+
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+    }
+  
+  .addButton:hover {
+    background-color: #2EE59D;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+    text-decoration: none;
+  }
+
+  .App{
+      background-image: url('C:\Users\LENOVO\Desktop\internship projects\text-selector-popup\text-selector\src\images\bg-wallpaper.jpg');
+        
+    }
+
+
+  .App > .MuiSvgIcon-root{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 2rem;
+    display: none;
+    outline-width: 0;
+    border: none;
+    color:  rgb(190, 48, 48);
+    background-color: rgb(240, 240, 240);
+    border-radius: 50%;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+  }
+
+  .App > .MuiSvgIcon-root:hover{
+   color: #3a202b;
+    box-shadow: 0px 15px 20px rgba(229, 113, 46, 0.4);
+   
+    transform: translateY(-7px);
+  }
+
+  #myTextArea {
+    border: 2px solid  gray; 
+    border-radius: 5px;
+    margin-bottom: 15px;
+    background-color: whitesmoke;
+  }
+
+ .textAreaButtons{
+     width: 80%;
+     display: flex;
+     justify-content: space-between;
+ }
+
+ .cancelButton{
+    height: 30px;
+   
+    font-size: 11px;
+    text-transform: uppercase;
+    color: whitesmoke;
+    text-decoration: underline;
+    font-weight: 750;
+    padding: 0px 10px;
+    /* background-color: rgb(255, 167, 2); */
+    background-color: transparent;
+    border: none;
+    border-radius: 45px;
+
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+ }
+ 
+ .cancelButton:hover{
+    background-color: rgb(219, 66, 66) ;
+    box-shadow: 0px 15px 20px rgba(229, 89, 46, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+    text-decoration: none;
+  
+ }
+  
+ .App > h1{
+    text-align: center;
+    font-size: 3rem;
+    color: whitesmoke ;
+    
+ }
+ .selectContentDiv{
+     padding: 10px 150px
+ }
+
+ .selectContentDiv > p{
+     font-size: larger;
+     color: rgb(248, 248, 248);
+     text-align: justify;
+ }
