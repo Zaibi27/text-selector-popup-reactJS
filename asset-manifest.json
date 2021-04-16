@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/text-selector-popup-reactJS/static/css/main.07ab5a5f.chunk.css",
+    "main.js": "/text-selector-popup-reactJS/static/js/main.aeca87d1.chunk.js",
+    "main.js.map": "/text-selector-popup-reactJS/static/js/main.aeca87d1.chunk.js.map",
+    "runtime-main.js": "/text-selector-popup-reactJS/static/js/runtime-main.95fe79d8.js",
+    "runtime-main.js.map": "/text-selector-popup-reactJS/static/js/runtime-main.95fe79d8.js.map",
+    "static/js/2.043a0f3c.chunk.js": "/text-selector-popup-reactJS/static/js/2.043a0f3c.chunk.js",
+    "static/js/2.043a0f3c.chunk.js.map": "/text-selector-popup-reactJS/static/js/2.043a0f3c.chunk.js.map",
+    "static/js/3.504b01f9.chunk.js": "/text-selector-popup-reactJS/static/js/3.504b01f9.chunk.js",
+    "static/js/3.504b01f9.chunk.js.map": "/text-selector-popup-reactJS/static/js/3.504b01f9.chunk.js.map",
+    "index.html": "/text-selector-popup-reactJS/index.html",
+    "static/css/main.07ab5a5f.chunk.css.map": "/text-selector-popup-reactJS/static/css/main.07ab5a5f.chunk.css.map",
+    "static/js/2.043a0f3c.chunk.js.LICENSE.txt": "/text-selector-popup-reactJS/static/js/2.043a0f3c.chunk.js.LICENSE.txt",
+    "static/media/styling.css": "/text-selector-popup-reactJS/static/media/bg-wallpaper.b0bef6c7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95fe79d8.js",
+    "static/js/2.043a0f3c.chunk.js",
+    "static/css/main.07ab5a5f.chunk.css",
+    "static/js/main.aeca87d1.chunk.js"
+  ]
+}
